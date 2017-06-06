@@ -1,0 +1,25 @@
+	body{
+		font-family: ariel,vernada;
+		background-image:url(../imagenes/holel.jpg);
+		font-style:blique;
+		float: left;
+		}
+		
+	
+	.wrapper{	width: 300px;
+				border:while;
+				height:250px;
+				float: left;
+				background-color:white;
+				text-align:center;	
+				float: center;
+				margin-left: 575;
+				margin-top: 150;}
+			
+	.page{	width:300px; 
+			background-color:pink;
+			height:130px;
+			border:black solid;
+							}
+			
+		P{	text-align: center;}
